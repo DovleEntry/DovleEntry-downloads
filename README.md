@@ -1,12 +1,12 @@
 # DovleEntry
 
 Los instaladores de [DovleEntry](https://www.dovleentry.com): tus finanzas personales en partida
-doble, en Windows, macOS y Linux. Están en
+doble, en Windows, macOS y Linux, y en tu teléfono Android. Están en
 [Releases](https://github.com/DovleEntry/DovleEntry-downloads/releases), y en
 [www.dovleentry.com](https://www.dovleentry.com/#descargar) dice cómo instalarlos.
 
 The installers of [DovleEntry](https://www.dovleentry.com/#en): your personal finances in
-double-entry bookkeeping, on Windows, macOS and Linux. They are in
+double-entry bookkeeping, on Windows, macOS and Linux, and on your Android phone. They are in
 [Releases](https://github.com/DovleEntry/DovleEntry-downloads/releases), and
 [www.dovleentry.com](https://www.dovleentry.com/#download) says how to install them.
 
